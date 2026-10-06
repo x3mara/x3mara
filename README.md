@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Candidate%20Master-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/3mara"><img src="https://img.shields.io/badge/Codeforces-Candidate%20Master-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.linkedin.com/in/3mara/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Discord-%403mara-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-2ea44f?style=flat-square" alt="Open to internships">
 </p>
